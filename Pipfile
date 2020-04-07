@@ -12,6 +12,7 @@ matplotlib = "*"
 seaborn = "*"
 google = "*"
 imblearn = "*"
+statsmodels = "*"
 
 [dev-packages]
 
