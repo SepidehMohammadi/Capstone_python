@@ -13,6 +13,8 @@ seaborn = "*"
 google = "*"
 imblearn = "*"
 statsmodels = "*"
+xgboost = "*"
+nb2xls = "*"
 
 [dev-packages]
 
